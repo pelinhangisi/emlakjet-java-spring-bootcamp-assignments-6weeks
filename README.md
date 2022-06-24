@@ -2,7 +2,8 @@
 
 <hr>
 
-## Week 1 - Java 11 and Java 17 Features
+## Week-1  <br>
+Java 11 and Java 17 Features
 
 <hr>
 
