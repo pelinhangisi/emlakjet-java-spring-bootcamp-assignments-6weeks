@@ -148,7 +148,7 @@ Ayri ayri servis halinde de yazabilirsiniz.Kendi seviyenize gore kendiniz secebi
 
 <br><hr>
 
-# week-6-assignment-pelinhangisi
+# week-6
 
 ![a](https://user-images.githubusercontent.com/96151920/177307036-2c994cdf-57d7-4a91-9160-fbe037c215a4.JPG)
 
